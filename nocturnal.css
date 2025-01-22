@@ -520,7 +520,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    -webkit-mask-box-image: url("https://cdn.discordapp.com/attachments/973936972739518474/1331694213904990331/image.png?ex=67928c62&is=67913ae2&hm=b24f73ff8c3cd83fac14bb8c6dcd177e94f648b36abbf3b7ef14944c2b1ec8f6&");
+
 }
 
 
@@ -3209,7 +3209,7 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    background-image: url(https://cdn.discordapp.com/attachments/973936972739518474/1331694213904990331/image.png?ex=67928c62&is=67913ae2&hm=b24f73ff8c3cd83fac14bb8c6dcd177e94f648b36abbf3b7ef14944c2b1ec8f6&);
+
 }
 
 .categoryIcon_ceda83[data-list-item-id="NO_LIST___soundboard_guild_0"]>.categoryIconIcon_ceda83 {
